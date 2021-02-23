@@ -5,7 +5,7 @@ const App = () => {
 
     return (
         <div className="App">
-            Corona Tracker App
+            <h1>Corona Tracker App</h1>
         </div>
     );
 }
