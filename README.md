@@ -6,4 +6,4 @@ React, Charts.JS and Material UI was used to develop this project.
 
 API used: https://covid19.mathdro.id/api
 
-Setup: run yarn install && yarn start
+Setup: run `yarn install` && `yarn start`
