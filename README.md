@@ -4,6 +4,8 @@ This project was created to share the daily numbers of infected, recovered and d
 
 React, Charts.JS and Material UI was used to develop this project.
 
+https://eztaskomaz.github.io/corona-tracker-app/
+
 API used: https://covid19.mathdro.id/api
 
 Setup: run `yarn install` && `yarn start`
